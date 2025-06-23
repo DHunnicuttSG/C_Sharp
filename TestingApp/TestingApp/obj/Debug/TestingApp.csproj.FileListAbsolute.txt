@@ -1,0 +1,8 @@
+D:\C#\TestingApp\TestingApp\bin\Debug\TestingApp.exe.config
+D:\C#\TestingApp\TestingApp\bin\Debug\TestingApp.exe
+D:\C#\TestingApp\TestingApp\bin\Debug\TestingApp.pdb
+D:\C#\TestingApp\TestingApp\obj\Debug\TestingApp.csproj.AssemblyReference.cache
+D:\C#\TestingApp\TestingApp\obj\Debug\TestingApp.csproj.CoreCompileInputs.cache
+D:\C#\TestingApp\TestingApp\obj\Debug\TestingApp.exe
+D:\C#\TestingApp\TestingApp\obj\Debug\TestingApp.pdb
+D:\C#\TestingApp\TestingApp\obj\Debug\TestingApp.exe.config

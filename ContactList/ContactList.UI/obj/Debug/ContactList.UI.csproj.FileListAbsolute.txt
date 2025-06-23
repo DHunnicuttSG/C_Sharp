@@ -1,0 +1,9 @@
+D:\C#\ContactList\ContactList.UI\bin\Debug\ContactList.UI.dll
+D:\C#\ContactList\ContactList.UI\bin\Debug\ContactList.UI.pdb
+D:\C#\ContactList\ContactList.UI\bin\Debug\ContactList.Models.dll
+D:\C#\ContactList\ContactList.UI\bin\Debug\ContactList.Models.pdb
+D:\C#\ContactList\ContactList.UI\obj\Debug\ContactList.UI.csproj.AssemblyReference.cache
+D:\C#\ContactList\ContactList.UI\obj\Debug\ContactList.UI.csproj.CoreCompileInputs.cache
+D:\C#\ContactList\ContactList.UI\obj\Debug\ContactL.AAD859D7.Up2Date
+D:\C#\ContactList\ContactList.UI\obj\Debug\ContactList.UI.dll
+D:\C#\ContactList\ContactList.UI\obj\Debug\ContactList.UI.pdb

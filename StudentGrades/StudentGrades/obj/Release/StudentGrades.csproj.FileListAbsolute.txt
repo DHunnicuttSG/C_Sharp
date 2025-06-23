@@ -1,0 +1,7 @@
+D:\C#\StudentGrades\StudentGrades\bin\Release\StudentGrades.exe.config
+D:\C#\StudentGrades\StudentGrades\bin\Release\StudentGrades.exe
+D:\C#\StudentGrades\StudentGrades\bin\Release\StudentGrades.pdb
+D:\C#\StudentGrades\StudentGrades\obj\Release\StudentGrades.csproj.AssemblyReference.cache
+D:\C#\StudentGrades\StudentGrades\obj\Release\StudentGrades.csproj.CoreCompileInputs.cache
+D:\C#\StudentGrades\StudentGrades\obj\Release\StudentGrades.exe
+D:\C#\StudentGrades\StudentGrades\obj\Release\StudentGrades.pdb

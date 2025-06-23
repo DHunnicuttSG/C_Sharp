@@ -1,0 +1,17 @@
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.exe.config
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.exe
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.pdb
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.Controller.dll
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.UI.dll
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.Data.dll
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.Models.dll
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.Controller.pdb
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.UI.pdb
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.Data.pdb
+D:\C#\ContactList\ContactList\bin\Debug\ContactList.Models.pdb
+D:\C#\ContactList\ContactList\obj\Debug\ContactList.csproj.AssemblyReference.cache
+D:\C#\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+D:\C#\ContactList\ContactList\obj\Debug\ContactL.47333FDB.Up2Date
+D:\C#\ContactList\ContactList\obj\Debug\ContactList.exe
+D:\C#\ContactList\ContactList\obj\Debug\ContactList.pdb
+D:\C#\ContactList\ContactList\obj\Debug\ContactList.exe.config

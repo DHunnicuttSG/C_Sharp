@@ -1,0 +1,8 @@
+D:\C#\LinqMethodSyntax\LinqMethodSyntax\bin\Debug\LinqMethodSyntax.exe.config
+D:\C#\LinqMethodSyntax\LinqMethodSyntax\bin\Debug\LinqMethodSyntax.exe
+D:\C#\LinqMethodSyntax\LinqMethodSyntax\bin\Debug\LinqMethodSyntax.pdb
+D:\C#\LinqMethodSyntax\LinqMethodSyntax\obj\Debug\LinqMethodSyntax.csproj.AssemblyReference.cache
+D:\C#\LinqMethodSyntax\LinqMethodSyntax\obj\Debug\LinqMethodSyntax.csproj.CoreCompileInputs.cache
+D:\C#\LinqMethodSyntax\LinqMethodSyntax\obj\Debug\LinqMethodSyntax.exe
+D:\C#\LinqMethodSyntax\LinqMethodSyntax\obj\Debug\LinqMethodSyntax.pdb
+D:\C#\LinqMethodSyntax\LinqMethodSyntax\obj\Debug\LinqMethodSyntax.exe.config

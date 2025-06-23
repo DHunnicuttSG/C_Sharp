@@ -1,0 +1,6 @@
+D:\C#\ContactList\ContactList.Models\bin\Debug\ContactList.Models.dll
+D:\C#\ContactList\ContactList.Models\bin\Debug\ContactList.Models.pdb
+D:\C#\ContactList\ContactList.Models\obj\Debug\ContactList.Models.csproj.AssemblyReference.cache
+D:\C#\ContactList\ContactList.Models\obj\Debug\ContactList.Models.csproj.CoreCompileInputs.cache
+D:\C#\ContactList\ContactList.Models\obj\Debug\ContactList.Models.dll
+D:\C#\ContactList\ContactList.Models\obj\Debug\ContactList.Models.pdb

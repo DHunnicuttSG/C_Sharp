@@ -1,0 +1,8 @@
+D:\C#\MyGenerics\MyGenerics\bin\Debug\MyGenerics.exe.config
+D:\C#\MyGenerics\MyGenerics\bin\Debug\MyGenerics.exe
+D:\C#\MyGenerics\MyGenerics\bin\Debug\MyGenerics.pdb
+D:\C#\MyGenerics\MyGenerics\obj\Debug\MyGenerics.csproj.AssemblyReference.cache
+D:\C#\MyGenerics\MyGenerics\obj\Debug\MyGenerics.csproj.CoreCompileInputs.cache
+D:\C#\MyGenerics\MyGenerics\obj\Debug\MyGenerics.exe
+D:\C#\MyGenerics\MyGenerics\obj\Debug\MyGenerics.pdb
+D:\C#\MyGenerics\MyGenerics\obj\Debug\MyGenerics.exe.config
