@@ -6,3 +6,11 @@ D:\C#\LinqExample2\LinqExample2\bin\Debug\LinqExample2.pdb
 D:\C#\LinqExample2\LinqExample2\obj\Debug\LinqExample2.exe
 D:\C#\LinqExample2\LinqExample2\obj\Debug\LinqExample2.pdb
 D:\C#\LinqExample2\LinqExample2\obj\Debug\LinqExample2.exe.config
+D:\C_Sharp\LinqExample2\LinqExample2\bin\Debug\LinqExample2.exe.config
+D:\C_Sharp\LinqExample2\LinqExample2\bin\Debug\LinqExample2.exe
+D:\C_Sharp\LinqExample2\LinqExample2\bin\Debug\LinqExample2.pdb
+D:\C_Sharp\LinqExample2\LinqExample2\obj\Debug\LinqExample2.csproj.AssemblyReference.cache
+D:\C_Sharp\LinqExample2\LinqExample2\obj\Debug\LinqExample2.exe.config
+D:\C_Sharp\LinqExample2\LinqExample2\obj\Debug\LinqExample2.csproj.CoreCompileInputs.cache
+D:\C_Sharp\LinqExample2\LinqExample2\obj\Debug\LinqExample2.exe
+D:\C_Sharp\LinqExample2\LinqExample2\obj\Debug\LinqExample2.pdb

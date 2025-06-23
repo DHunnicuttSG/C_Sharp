@@ -14,6 +14,7 @@ namespace LinqExample2
             AnonymousType();
             GetAverageGPA();
             HonorRoll();
+            GroupByMajor();
         }
 
         public static void AnonymousType()
@@ -70,7 +71,18 @@ namespace LinqExample2
 
         public static void GroupByMajor()
         {
+            var AverageGPAByMajor = StudentRepo.SelectAll().GroupBy(s => s.Major)
+                .Select(group => new
+                {
+                    Major = group.Key,
+                    AverageGPA = group.Average(student => student.GPA)
+                })
+                .OrderBy(item => item.Major);
 
+            foreach (var item in AverageGPAByMajor)
+            {
+                Console.WriteLine($"Major: {item.Major}, Average GPA: {item.AverageGPA:F2}"); // F2 for 2 decimal places
+            }
         }
     }
 }
