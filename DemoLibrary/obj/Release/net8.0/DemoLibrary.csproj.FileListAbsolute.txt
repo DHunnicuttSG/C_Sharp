@@ -9,3 +9,15 @@ D:\C#\DemoLibrary\obj\Release\net8.0\DemoLibrary.dll
 D:\C#\DemoLibrary\obj\Release\net8.0\refint\DemoLibrary.dll
 D:\C#\DemoLibrary\obj\Release\net8.0\DemoLibrary.pdb
 D:\C#\DemoLibrary\obj\Release\net8.0\ref\DemoLibrary.dll
+D:\C_Sharp\DemoLibrary\bin\Release\net8.0\DemoLibrary.deps.json
+D:\C_Sharp\DemoLibrary\bin\Release\net8.0\DemoLibrary.dll
+D:\C_Sharp\DemoLibrary\bin\Release\net8.0\DemoLibrary.pdb
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\DemoLibrary.AssemblyInfoInputs.cache
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\DemoLibrary.AssemblyInfo.cs
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\DemoLibrary.sourcelink.json
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\DemoLibrary.dll
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\refint\DemoLibrary.dll
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\DemoLibrary.pdb
+D:\C_Sharp\DemoLibrary\obj\Release\net8.0\ref\DemoLibrary.dll

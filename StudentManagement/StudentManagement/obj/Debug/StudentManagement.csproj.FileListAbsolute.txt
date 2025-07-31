@@ -1,0 +1,8 @@
+D:\C_Sharp\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+D:\C_Sharp\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+D:\C_Sharp\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+D:\C_Sharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+D:\C_Sharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\C_Sharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+D:\C_Sharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+D:\C_Sharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe.config

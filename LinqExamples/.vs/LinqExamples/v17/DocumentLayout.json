@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\LinqExamples\\",
+  "WorkspaceRootPath": "D:\\C_Sharp\\LinqExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B6229C4-9264-47F5-B0BE-05F95A9BC3E0}|LinqExamples\\LinqExamples.csproj|d:\\c#\\linqexamples\\linqexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B6229C4-9264-47F5-B0BE-05F95A9BC3E0}|LinqExamples\\LinqExamples.csproj|d:\\c_sharp\\linqexamples\\linqexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B6229C4-9264-47F5-B0BE-05F95A9BC3E0}|LinqExamples\\LinqExamples.csproj|solutionrelative:linqexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\LinqExamples\\LinqExamples\\Program.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\LinqExamples\\LinqExamples\\Program.cs",
               "RelativeDocumentMoniker": "LinqExamples\\Program.cs",
-              "ToolTip": "D:\\C#\\LinqExamples\\LinqExamples\\Program.cs",
+              "ToolTip": "D:\\C_Sharp\\LinqExamples\\LinqExamples\\Program.cs",
               "RelativeToolTip": "LinqExamples\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwBsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T14:31:29.32Z",
               "EditorCaption": ""

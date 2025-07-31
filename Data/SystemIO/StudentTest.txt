@@ -1,0 +1,4 @@
+FirstName,LastName,Major,GPA
+Mary,Jones,Business,3.0
+Jane,Doe,Computer Science,4.0
+Bobby,Tables,English,2.7

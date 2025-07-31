@@ -1,0 +1,16 @@
+firstName,lastName,street1,street2,city,state,zip
+Sophia,Johnson,123 Maple Dr,Apt 4B,Springfield,IL,62704
+Liam,Smith,45 Oak Ave,,Riverside,CA,92507
+Olivia,Williams,789 Pine Ln,Unit 10,Boulder,CO,80302
+Noah,Brown,321 Elm St,,Portland,OR,97205
+Ava,Jones,654 Birch Rd,Suite 200,Austin,TX,78701
+Elijah,Garcia,987 Cedar Ct,,Orlando,FL,32801
+Isabella,Rodriguez,234 Willow Way,Bldg C,Seattle,WA,98101
+James,Martinez,567 Spruce Blvd,,Boston,MA,02108
+Mia,Hernandez,890 Redwood Pl,Apt 12,Denver,CO,80203
+Benjamin,Lopez,10 Rosewood Cir,,Atlanta,GA,30303
+Charlotte,Gonzalez,76 Poplar Dr,Apt 5,Phoenix,AZ,85001
+Lucas,Perez,99 Sycamore Rd,,Chicago,IL,60601
+Amelia,Wilson,11 Ash St,Ste 300,New York,NY,10001
+Henry,Taylor,22 Cherry Ct,,Miami,FL,33101
+Harper,Moore,33 Dogwood Ln,Unit 7,San Diego,CA,92101

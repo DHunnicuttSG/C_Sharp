@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\DemoLibrary\\DemoLibrary.csproj": {}
+    "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj": {}
   },
   "projects": {
-    "D:\\C#\\DemoLibrary\\DemoLibrary.csproj": {
+    "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\DemoLibrary\\DemoLibrary.csproj",
+        "projectUniqueName": "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj",
         "projectName": "DemoLibrary",
-        "projectPath": "D:\\C#\\DemoLibrary\\DemoLibrary.csproj",
+        "projectPath": "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj",
         "packagesPath": "C:\\Users\\DavidHunnicutt\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\DemoLibrary\\obj\\",
+        "outputPath": "D:\\C_Sharp\\DemoLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,6 @@
+D:\C_Sharp\NunitTestingApp\SystemIO.Test\obj\Debug\net8.0\SystemIO.Test.csproj.AssemblyReference.cache
+D:\C_Sharp\NunitTestingApp\SystemIO.Test\obj\Debug\net8.0\SystemIO.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\NunitTestingApp\SystemIO.Test\obj\Debug\net8.0\SystemIO.Test.AssemblyInfoInputs.cache
+D:\C_Sharp\NunitTestingApp\SystemIO.Test\obj\Debug\net8.0\SystemIO.Test.AssemblyInfo.cs
+D:\C_Sharp\NunitTestingApp\SystemIO.Test\obj\Debug\net8.0\SystemIO.Test.csproj.CoreCompileInputs.cache
+D:\C_Sharp\NunitTestingApp\SystemIO.Test\obj\Debug\net8.0\SystemIO.Test.sourcelink.json

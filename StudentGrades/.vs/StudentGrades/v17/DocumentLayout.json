@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\StudentGrades\\",
+  "WorkspaceRootPath": "D:\\C_Sharp\\StudentGrades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19DA089F-1B70-4C5B-B603-7D462ECCD493}|StudentGrades.tests\\StudentGrades.tests.csproj|d:\\c#\\studentgrades\\studentgrades.tests\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19DA089F-1B70-4C5B-B603-7D462ECCD493}|StudentGrades.tests\\StudentGrades.tests.csproj|d:\\c_sharp\\studentgrades\\studentgrades.tests\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19DA089F-1B70-4C5B-B603-7D462ECCD493}|StudentGrades.tests\\StudentGrades.tests.csproj|solutionrelative:studentgrades.tests\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84D828F4-AE4F-4E98-9D1A-4CDF1E10D373}|StudentGrades\\StudentGrades.csproj|d:\\c#\\studentgrades\\studentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D828F4-AE4F-4E98-9D1A-4CDF1E10D373}|StudentGrades\\StudentGrades.csproj|solutionrelative:studentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84D828F4-AE4F-4E98-9D1A-4CDF1E10D373}|StudentGrades\\StudentGrades.csproj|D:\\C_Sharp\\StudentGrades\\studentgrades\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D828F4-AE4F-4E98-9D1A-4CDF1E10D373}|StudentGrades\\StudentGrades.csproj|solutionrelative:studentgrades\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84D828F4-AE4F-4E98-9D1A-4CDF1E10D373}|StudentGrades\\StudentGrades.csproj|d:\\c#\\studentgrades\\studentgrades\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D828F4-AE4F-4E98-9D1A-4CDF1E10D373}|StudentGrades\\StudentGrades.csproj|solutionrelative:studentgrades\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84D828F4-AE4F-4E98-9D1A-4CDF1E10D373}|StudentGrades\\StudentGrades.csproj|d:\\c_sharp\\studentgrades\\studentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D828F4-AE4F-4E98-9D1A-4CDF1E10D373}|StudentGrades\\StudentGrades.csproj|solutionrelative:studentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,35 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GradeCalculatorTests.cs",
-              "DocumentMoniker": "D:\\C#\\StudentGrades\\StudentGrades.tests\\GradeCalculatorTests.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\StudentGrades\\StudentGrades.tests\\GradeCalculatorTests.cs",
               "RelativeDocumentMoniker": "StudentGrades.tests\\GradeCalculatorTests.cs",
-              "ToolTip": "D:\\C#\\StudentGrades\\StudentGrades.tests\\GradeCalculatorTests.cs",
+              "ToolTip": "D:\\C_Sharp\\StudentGrades\\StudentGrades.tests\\GradeCalculatorTests.cs",
               "RelativeToolTip": "StudentGrades.tests\\GradeCalculatorTests.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T14:47:27.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GradeCalculator.cs",
-              "DocumentMoniker": "D:\\C#\\StudentGrades\\StudentGrades\\GradeCalculator.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\StudentGrades\\StudentGrades\\GradeCalculator.cs",
               "RelativeDocumentMoniker": "StudentGrades\\GradeCalculator.cs",
-              "ToolTip": "D:\\C#\\StudentGrades\\StudentGrades\\GradeCalculator.cs",
+              "ToolTip": "D:\\C_Sharp\\StudentGrades\\StudentGrades\\GradeCalculator.cs",
               "RelativeToolTip": "StudentGrades\\GradeCalculator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T14:23:24.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\StudentGrades\\StudentGrades\\Program.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\StudentGrades\\StudentGrades\\Program.cs",
               "RelativeDocumentMoniker": "StudentGrades\\Program.cs",
-              "ToolTip": "D:\\C#\\StudentGrades\\StudentGrades\\Program.cs",
+              "ToolTip": "D:\\C_Sharp\\StudentGrades\\StudentGrades\\Program.cs",
               "RelativeToolTip": "StudentGrades\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\ConsoleAppWithLibrary\\ConsoleAppWithLibrary.csproj": {}
+    "D:\\C_Sharp\\ConsoleAppWithLibrary\\ConsoleAppWithLibrary.csproj": {}
   },
   "projects": {
-    "D:\\C#\\ConsoleAppWithLibrary\\ConsoleAppWithLibrary.csproj": {
+    "D:\\C_Sharp\\ConsoleAppWithLibrary\\ConsoleAppWithLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ConsoleAppWithLibrary\\ConsoleAppWithLibrary.csproj",
+        "projectUniqueName": "D:\\C_Sharp\\ConsoleAppWithLibrary\\ConsoleAppWithLibrary.csproj",
         "projectName": "ConsoleAppWithLibrary",
-        "projectPath": "D:\\C#\\ConsoleAppWithLibrary\\ConsoleAppWithLibrary.csproj",
+        "projectPath": "D:\\C_Sharp\\ConsoleAppWithLibrary\\ConsoleAppWithLibrary.csproj",
         "packagesPath": "C:\\Users\\DavidHunnicutt\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ConsoleAppWithLibrary\\obj\\",
+        "outputPath": "D:\\C_Sharp\\ConsoleAppWithLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

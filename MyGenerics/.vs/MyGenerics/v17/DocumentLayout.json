@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\MyGenerics\\",
+  "WorkspaceRootPath": "D:\\C_Sharp\\MyGenerics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DDB024A-02DE-44A2-9DEF-75AD81ABD582}|MyGenerics\\MyGenerics.csproj|d:\\c#\\mygenerics\\mygenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DDB024A-02DE-44A2-9DEF-75AD81ABD582}|MyGenerics\\MyGenerics.csproj|d:\\c_sharp\\mygenerics\\mygenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DDB024A-02DE-44A2-9DEF-75AD81ABD582}|MyGenerics\\MyGenerics.csproj|solutionrelative:mygenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\MyGenerics\\MyGenerics\\Program.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\MyGenerics\\MyGenerics\\Program.cs",
               "RelativeDocumentMoniker": "MyGenerics\\Program.cs",
-              "ToolTip": "D:\\C#\\MyGenerics\\MyGenerics\\Program.cs",
+              "ToolTip": "D:\\C_Sharp\\MyGenerics\\MyGenerics\\Program.cs",
               "RelativeToolTip": "MyGenerics\\Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAIwF8AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwF8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T13:42:49.491Z",
               "EditorCaption": ""

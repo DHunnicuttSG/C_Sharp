@@ -1,0 +1,8 @@
+D:\C_Sharp\DirectoryInformation\DirectoryInformation\bin\Debug\DirectoryInformation.exe.config
+D:\C_Sharp\DirectoryInformation\DirectoryInformation\bin\Debug\DirectoryInformation.exe
+D:\C_Sharp\DirectoryInformation\DirectoryInformation\bin\Debug\DirectoryInformation.pdb
+D:\C_Sharp\DirectoryInformation\DirectoryInformation\obj\Debug\DirectoryInformation.csproj.AssemblyReference.cache
+D:\C_Sharp\DirectoryInformation\DirectoryInformation\obj\Debug\DirectoryInformation.csproj.CoreCompileInputs.cache
+D:\C_Sharp\DirectoryInformation\DirectoryInformation\obj\Debug\DirectoryInformation.exe
+D:\C_Sharp\DirectoryInformation\DirectoryInformation\obj\Debug\DirectoryInformation.pdb
+D:\C_Sharp\DirectoryInformation\DirectoryInformation\obj\Debug\DirectoryInformation.exe.config

@@ -1,0 +1,8 @@
+D:\C_Sharp\FileReadAndWrite\FileReadAndWrite\bin\Debug\FileReadAndWrite.exe.config
+D:\C_Sharp\FileReadAndWrite\FileReadAndWrite\bin\Debug\FileReadAndWrite.exe
+D:\C_Sharp\FileReadAndWrite\FileReadAndWrite\bin\Debug\FileReadAndWrite.pdb
+D:\C_Sharp\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.csproj.AssemblyReference.cache
+D:\C_Sharp\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.csproj.CoreCompileInputs.cache
+D:\C_Sharp\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.exe
+D:\C_Sharp\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.pdb
+D:\C_Sharp\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.exe.config

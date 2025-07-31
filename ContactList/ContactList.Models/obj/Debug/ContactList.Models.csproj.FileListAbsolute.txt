@@ -4,3 +4,9 @@ D:\C#\ContactList\ContactList.Models\obj\Debug\ContactList.Models.csproj.Assembl
 D:\C#\ContactList\ContactList.Models\obj\Debug\ContactList.Models.csproj.CoreCompileInputs.cache
 D:\C#\ContactList\ContactList.Models\obj\Debug\ContactList.Models.dll
 D:\C#\ContactList\ContactList.Models\obj\Debug\ContactList.Models.pdb
+D:\C_Sharp\ContactList\ContactList.Models\bin\Debug\ContactList.Models.dll
+D:\C_Sharp\ContactList\ContactList.Models\bin\Debug\ContactList.Models.pdb
+D:\C_Sharp\ContactList\ContactList.Models\obj\Debug\ContactList.Models.csproj.AssemblyReference.cache
+D:\C_Sharp\ContactList\ContactList.Models\obj\Debug\ContactList.Models.csproj.CoreCompileInputs.cache
+D:\C_Sharp\ContactList\ContactList.Models\obj\Debug\ContactList.Models.dll
+D:\C_Sharp\ContactList\ContactList.Models\obj\Debug\ContactList.Models.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\C_Sharp\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\C#\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\C_Sharp\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\C_Sharp\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\C_Sharp\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\DavidHunnicutt\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\C_Sharp\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\DemoLibrary\\DemoLibrary.csproj": {
-                "projectPath": "D:\\C#\\DemoLibrary\\DemoLibrary.csproj"
+              "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj": {
+                "projectPath": "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\C#\\DemoLibrary\\DemoLibrary.csproj": {
+    "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\DemoLibrary\\DemoLibrary.csproj",
+        "projectUniqueName": "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj",
         "projectName": "DemoLibrary",
-        "projectPath": "D:\\C#\\DemoLibrary\\DemoLibrary.csproj",
+        "projectPath": "D:\\C_Sharp\\DemoLibrary\\DemoLibrary.csproj",
         "packagesPath": "C:\\Users\\DavidHunnicutt\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\DemoLibrary\\obj\\",
+        "outputPath": "D:\\C_Sharp\\DemoLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

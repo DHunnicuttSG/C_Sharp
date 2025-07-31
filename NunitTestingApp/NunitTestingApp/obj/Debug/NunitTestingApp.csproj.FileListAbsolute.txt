@@ -1,0 +1,8 @@
+D:\C_Sharp\NunitTestingApp\NunitTestingApp\bin\Debug\NunitTestingApp.exe.config
+D:\C_Sharp\NunitTestingApp\NunitTestingApp\bin\Debug\NunitTestingApp.exe
+D:\C_Sharp\NunitTestingApp\NunitTestingApp\bin\Debug\NunitTestingApp.pdb
+D:\C_Sharp\NunitTestingApp\NunitTestingApp\obj\Debug\NunitTestingApp.csproj.AssemblyReference.cache
+D:\C_Sharp\NunitTestingApp\NunitTestingApp\obj\Debug\NunitTestingApp.csproj.CoreCompileInputs.cache
+D:\C_Sharp\NunitTestingApp\NunitTestingApp\obj\Debug\NunitTestingApp.exe
+D:\C_Sharp\NunitTestingApp\NunitTestingApp\obj\Debug\NunitTestingApp.pdb
+D:\C_Sharp\NunitTestingApp\NunitTestingApp\obj\Debug\NunitTestingApp.exe.config

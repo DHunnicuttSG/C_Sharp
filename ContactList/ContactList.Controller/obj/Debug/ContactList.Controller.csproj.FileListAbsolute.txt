@@ -11,3 +11,16 @@ D:\C#\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.csproj
 D:\C#\ContactList\ContactList.Controller\obj\Debug\ContactL.C5A03690.Up2Date
 D:\C#\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.dll
 D:\C#\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.pdb
+D:\C_Sharp\ContactList\ContactList.Controller\bin\Debug\ContactList.Controller.dll
+D:\C_Sharp\ContactList\ContactList.Controller\bin\Debug\ContactList.Controller.pdb
+D:\C_Sharp\ContactList\ContactList.Controller\bin\Debug\ContactList.Data.dll
+D:\C_Sharp\ContactList\ContactList.Controller\bin\Debug\ContactList.Models.dll
+D:\C_Sharp\ContactList\ContactList.Controller\bin\Debug\ContactList.UI.dll
+D:\C_Sharp\ContactList\ContactList.Controller\bin\Debug\ContactList.Data.pdb
+D:\C_Sharp\ContactList\ContactList.Controller\bin\Debug\ContactList.Models.pdb
+D:\C_Sharp\ContactList\ContactList.Controller\bin\Debug\ContactList.UI.pdb
+D:\C_Sharp\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.csproj.AssemblyReference.cache
+D:\C_Sharp\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.csproj.CoreCompileInputs.cache
+D:\C_Sharp\ContactList\ContactList.Controller\obj\Debug\ContactL.C5A03690.Up2Date
+D:\C_Sharp\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.dll
+D:\C_Sharp\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.pdb

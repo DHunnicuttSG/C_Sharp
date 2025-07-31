@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_Sharp\\ComputerInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF092C69-9619-4D70-AC06-73C8D8139F5B}|ComputerInfo\\ComputerInfo.csproj|d:\\c_sharp\\computerinfo\\computerinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF092C69-9619-4D70-AC06-73C8D8139F5B}|ComputerInfo\\ComputerInfo.csproj|solutionrelative:computerinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\ComputerInfo\\ComputerInfo\\Program.cs",
+              "RelativeDocumentMoniker": "ComputerInfo\\Program.cs",
+              "ToolTip": "D:\\C_Sharp\\ComputerInfo\\ComputerInfo\\Program.cs",
+              "RelativeToolTip": "ComputerInfo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:28:17.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

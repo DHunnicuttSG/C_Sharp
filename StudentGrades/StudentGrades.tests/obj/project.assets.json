@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\StudentGrades\\StudentGrades.tests\\StudentGrades.tests.csproj",
+      "projectUniqueName": "D:\\C_Sharp\\StudentGrades\\StudentGrades.tests\\StudentGrades.tests.csproj",
       "projectName": "StudentGrades.tests",
-      "projectPath": "D:\\C#\\StudentGrades\\StudentGrades.tests\\StudentGrades.tests.csproj",
+      "projectPath": "D:\\C_Sharp\\StudentGrades\\StudentGrades.tests\\StudentGrades.tests.csproj",
       "packagesPath": "C:\\Users\\DavidHunnicutt\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\StudentGrades\\StudentGrades.tests\\obj\\",
+      "outputPath": "D:\\C_Sharp\\StudentGrades\\StudentGrades.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1029,8 +1029,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\StudentGrades\\StudentGrades\\StudentGrades.csproj": {
-              "projectPath": "D:\\C#\\StudentGrades\\StudentGrades\\StudentGrades.csproj"
+            "D:\\C_Sharp\\StudentGrades\\StudentGrades\\StudentGrades.csproj": {
+              "projectPath": "D:\\C_Sharp\\StudentGrades\\StudentGrades\\StudentGrades.csproj"
             }
           }
         }

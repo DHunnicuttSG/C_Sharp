@@ -1,0 +1,8 @@
+D:\C_Sharp\ComputerInfo\ComputerInfo\bin\Debug\ComputerInfo.exe.config
+D:\C_Sharp\ComputerInfo\ComputerInfo\bin\Debug\ComputerInfo.exe
+D:\C_Sharp\ComputerInfo\ComputerInfo\bin\Debug\ComputerInfo.pdb
+D:\C_Sharp\ComputerInfo\ComputerInfo\obj\Debug\ComputerInfo.csproj.AssemblyReference.cache
+D:\C_Sharp\ComputerInfo\ComputerInfo\obj\Debug\ComputerInfo.csproj.CoreCompileInputs.cache
+D:\C_Sharp\ComputerInfo\ComputerInfo\obj\Debug\ComputerInfo.exe
+D:\C_Sharp\ComputerInfo\ComputerInfo\obj\Debug\ComputerInfo.pdb
+D:\C_Sharp\ComputerInfo\ComputerInfo\obj\Debug\ComputerInfo.exe.config

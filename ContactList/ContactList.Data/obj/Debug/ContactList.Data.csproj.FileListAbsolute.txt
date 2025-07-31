@@ -7,3 +7,12 @@ D:\C#\ContactList\ContactList.Data\obj\Debug\ContactList.Data.csproj.CoreCompile
 D:\C#\ContactList\ContactList.Data\obj\Debug\ContactL.7BB9B0AD.Up2Date
 D:\C#\ContactList\ContactList.Data\obj\Debug\ContactList.Data.dll
 D:\C#\ContactList\ContactList.Data\obj\Debug\ContactList.Data.pdb
+D:\C_Sharp\ContactList\ContactList.Data\bin\Debug\ContactList.Data.dll
+D:\C_Sharp\ContactList\ContactList.Data\bin\Debug\ContactList.Data.pdb
+D:\C_Sharp\ContactList\ContactList.Data\bin\Debug\ContactList.Models.dll
+D:\C_Sharp\ContactList\ContactList.Data\bin\Debug\ContactList.Models.pdb
+D:\C_Sharp\ContactList\ContactList.Data\obj\Debug\ContactList.Data.csproj.AssemblyReference.cache
+D:\C_Sharp\ContactList\ContactList.Data\obj\Debug\ContactList.Data.csproj.CoreCompileInputs.cache
+D:\C_Sharp\ContactList\ContactList.Data\obj\Debug\ContactL.7BB9B0AD.Up2Date
+D:\C_Sharp\ContactList\ContactList.Data\obj\Debug\ContactList.Data.dll
+D:\C_Sharp\ContactList\ContactList.Data\obj\Debug\ContactList.Data.pdb
