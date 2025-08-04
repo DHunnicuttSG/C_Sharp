@@ -1,10 +1,10 @@
 1.	Fundamentals
-    a.	C# Structures 
-    b.	Types 
-    c.	Variables 
-    d.	Collecting User Input 
-    e.	Flow of Control 
-    f.	Random 
+    a.	C# Structures x
+    b.	Types x
+    c.	Variables x
+    d.	Collecting User Input x
+    e.	Flow of Control x
+    f.	Random x
     g.	Methods 
     h.	Arrays 
     i.	Formatting Output 
