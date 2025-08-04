@@ -5,7 +5,7 @@
     d.	Collecting User Input x
     e.	Flow of Control x
     f.	Random x
-    g.	Methods 
+    g.	Methods x
     h.	Arrays 
     i.	Formatting Output 
     j.	The String Type and Common String Members
