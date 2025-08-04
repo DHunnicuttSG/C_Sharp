@@ -6,8 +6,8 @@
     e.	Flow of Control x
     f.	Random x
     g.	Methods x
-    h.	Arrays 
-    i.	Formatting Output 
+    h.	Arrays x
+    i.	Formatting Output x
     j.	The String Type and Common String Members
 2.	Classes and Objects
     a.	Enums 
