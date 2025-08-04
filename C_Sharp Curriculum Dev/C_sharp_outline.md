@@ -1,3 +1,5 @@
+<!-- AI prompt: create some C# content for a class on the topic of C# _____, include exercises with sample code. Transform and output the file into markdown language. -->
+
 1.	Fundamentals
     a.	C# Structures x
     b.	Types x
@@ -8,7 +10,7 @@
     g.	Methods x
     h.	Arrays x
     i.	Formatting Output x
-    j.	The String Type and Common String Members
+    j.	The String Type and Common String Members x
 2.	Classes and Objects
     a.	Enums 
     b.	Classes and Class Libraries 
