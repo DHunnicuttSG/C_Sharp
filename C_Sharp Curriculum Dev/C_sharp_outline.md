@@ -1,16 +1,16 @@
 <!-- AI prompt: create some C# content for a class on the topic of C# _____, include exercises with sample code. Transform and output the file into markdown language. -->
 
 1.	Fundamentals
-    a.	C# Structures x
-    b.	Types x
-    c.	Variables x
-    d.	Collecting User Input x
-    e.	Flow of Control x
-    f.	Random x
-    g.	Methods x
-    h.	Arrays x
-    i.	Formatting Output x
-    j.	The String Type and Common String Members x
+    a.	C# Structures 
+    b.	Types 
+    c.	Variables 
+    d.	Collecting User Input 
+    e.	Flow of Control 
+    f.	Random 
+    g.	Methods 
+    h.	Arrays 
+    i.	Formatting Output 
+    j.	The String Type and Common String Members 
 2.	Classes and Objects
     a.	Enums 
     b.	Classes and Class Libraries 
