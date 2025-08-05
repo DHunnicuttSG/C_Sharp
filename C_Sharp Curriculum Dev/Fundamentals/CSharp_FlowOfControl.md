@@ -162,11 +162,11 @@ foreach (string fruit in fruits)
 
 Jump statements change the flow of execution within a loop or a switch statement.
 
-break
+**break**
 
 The break statement immediately terminates the loop or switch statement it is in, and execution continues with the statement immediately following the loop.
 
-continue
+**continue**
 
 The continue statement skips the rest of the current iteration of the loop and proceeds to the next iteration.
 
