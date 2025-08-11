@@ -194,4 +194,5 @@ Imagine you have a class Inventory with a method AddItem(string item). This meth
 ```
 
 ## Conclusion
+
 Unit testing is an invaluable skill that will make you a better and more confident developer. By writing small, focused tests for your code, you can build applications with higher quality and fewer bugs. The Arrange-Act-Assert pattern provides a clear and consistent structure for all your tests, making them easy to write and maintain.

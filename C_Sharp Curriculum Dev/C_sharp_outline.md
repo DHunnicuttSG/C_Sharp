@@ -1,24 +1,24 @@
 <!-- AI prompt: create some C# content for a class on the topic of C# _____, include exercises with sample code. Transform and output the file into markdown language. -->
 
 1.	Fundamentals
-    a.	C# Structures 
-    b.	Types 
-    c.	Variables 
-    d.	Collecting User Input 
-    e.	Flow of Control 
-    f.	Random 
-    g.	Methods 
-    h.	Arrays 
-    i.	Formatting Output 
-    j.	The String Type and Common String Members 
+    a.	C# Structures x
+    b.	Types x
+    c.	Variables x
+    d.	Collecting User Input x
+    e.	Flow of Control x
+    f.	Random x
+    g.	Methods x
+    h.	Arrays x
+    i.	Formatting Output x
+    j.	The String Type and Common String Members x
 2.	Classes and Objects
     a.	Enums x
     b.	Classes and Class Libraries x
     c.	The NuGet Package Manager x
     d.	In-Memory Repositories x
-    e.	MVC and Tiered Application Design 
+    e.	MVC and Tiered Application Design x
     f.	Unit Testing x
-    g.	Advanced Class Design
+    g.	Advanced Class Design x
 3.	Intermediate Concepts
     a.	The Date Time Type 
     b.	Big O Notation and Collections 
