@@ -21,7 +21,7 @@
     g.	Advanced Class Design x
 3.	Intermediate Concepts
     a.	The Date Time Type x
-    b.	Big O Notation and Collections 
+    b.	Big O Notation and Collections x
     c.	Using List and Dictionary 
     d.	LINQ Query Writing 
     e.	System.IO
