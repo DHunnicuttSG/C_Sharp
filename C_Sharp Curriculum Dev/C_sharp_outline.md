@@ -12,12 +12,12 @@
     i.	Formatting Output 
     j.	The String Type and Common String Members 
 2.	Classes and Objects
-    a.	Enums 
+    a.	Enums x
     b.	Classes and Class Libraries 
-    c.	The NuGet Package Manager 
-    d.	In-Memory Repositories 
+    c.	The NuGet Package Manager x
+    d.	In-Memory Repositories x
     e.	MVC and Tiered Application Design 
-    f.	Unit Testing 
+    f.	Unit Testing x
     g.	Advanced Class Design
 3.	Intermediate Concepts
     a.	The Date Time Type 
