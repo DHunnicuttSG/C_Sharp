@@ -20,7 +20,7 @@
     f.	Unit Testing x
     g.	Advanced Class Design x
 3.	Intermediate Concepts
-    a.	The Date Time Type 
+    a.	The Date Time Type x
     b.	Big O Notation and Collections 
     c.	Using List and Dictionary 
     d.	LINQ Query Writing 
