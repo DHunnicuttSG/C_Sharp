@@ -13,7 +13,7 @@
     j.	The String Type and Common String Members 
 2.	Classes and Objects
     a.	Enums x
-    b.	Classes and Class Libraries 
+    b.	Classes and Class Libraries x
     c.	The NuGet Package Manager x
     d.	In-Memory Repositories x
     e.	MVC and Tiered Application Design 
