@@ -24,7 +24,7 @@
     b.	Big O Notation and Collections x
     c.	Using List and Dictionary x
     d.	LINQ Query Writing x
-    e.	System.IO
+    e.	System.IO x
 4.	Advanced Concepts
     a.	Exception Handling 
     b.	Interfaces and the IComparable Interface 
