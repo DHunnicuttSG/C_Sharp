@@ -23,7 +23,7 @@
     a.	The Date Time Type x
     b.	Big O Notation and Collections x
     c.	Using List and Dictionary x
-    d.	LINQ Query Writing 
+    d.	LINQ Query Writing x
     e.	System.IO
 4.	Advanced Concepts
     a.	Exception Handling 
