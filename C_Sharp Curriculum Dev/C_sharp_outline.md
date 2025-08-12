@@ -26,8 +26,8 @@
     d.	LINQ Query Writing x
     e.	System.IO x
 4.	Advanced Concepts
-    a.	Exception Handling 
-    b.	Interfaces and the IComparable Interface 
+    a.	Exception Handling x
+    b.	Interfaces and the IComparable Interface x
     c.	Dependency Injection 
     d.	Mocking
     e.	Multithreading
