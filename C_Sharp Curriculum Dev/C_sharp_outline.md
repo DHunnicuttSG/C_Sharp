@@ -28,7 +28,7 @@
 4.	Advanced Concepts
     a.	Exception Handling x
     b.	Interfaces and the IComparable Interface x
-    c.	Dependency Injection 
+    c.	Dependency Injection x
     d.	Mocking
     e.	Multithreading
     f.	TPL (Task Parallel Library)
