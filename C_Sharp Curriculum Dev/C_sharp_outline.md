@@ -29,7 +29,7 @@
     a.	Exception Handling x
     b.	Interfaces and the IComparable Interface x
     c.	Dependency Injection x
-    d.	Mocking
+    d.	Mocking x
     e.	Multithreading
     f.	TPL (Task Parallel Library)
     g.	Parallelism Vs. Concurrency 
