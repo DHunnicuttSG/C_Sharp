@@ -1,0 +1,15 @@
+D:\C_Sharp\Counters\Counters\bin\Debug\net8.0\Counters.exe
+D:\C_Sharp\Counters\Counters\bin\Debug\net8.0\Counters.deps.json
+D:\C_Sharp\Counters\Counters\bin\Debug\net8.0\Counters.runtimeconfig.json
+D:\C_Sharp\Counters\Counters\bin\Debug\net8.0\Counters.dll
+D:\C_Sharp\Counters\Counters\bin\Debug\net8.0\Counters.pdb
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\Counters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\Counters.AssemblyInfoInputs.cache
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\Counters.AssemblyInfo.cs
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\Counters.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\Counters.sourcelink.json
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\Counters.dll
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\refint\Counters.dll
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\Counters.pdb
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\Counters.genruntimeconfig.cache
+D:\C_Sharp\Counters\Counters\obj\Debug\net8.0\ref\Counters.dll

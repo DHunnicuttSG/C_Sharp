@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_Sharp\\Counters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCC22D5-0FE7-45C5-888A-9B827041B5B4}|Counters\\Counters.csproj|d:\\c_sharp\\counters\\counters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCC22D5-0FE7-45C5-888A-9B827041B5B4}|Counters\\Counters.csproj|solutionrelative:counters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\Counters\\Counters\\Program.cs",
+              "RelativeDocumentMoniker": "Counters\\Program.cs",
+              "ToolTip": "D:\\C_Sharp\\Counters\\Counters\\Program.cs",
+              "RelativeToolTip": "Counters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:13:20.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
